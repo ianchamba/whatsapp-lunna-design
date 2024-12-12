@@ -1,7 +1,7 @@
 
 # WhatsApp Lunna Design
 
-**Version:** 1.8.4  
+**Version:** 1.9.0 
 **Author:** Hostbraza  
 **Plugin URI:** [Web Lunna Design](https://web.lunnadesign.com.br)  
 **Author URI:** [Hostbraza](https://hostbraza.com.br)  
@@ -37,7 +37,7 @@ The WhatsApp Lunna Design plugin integrates WhatsApp with:
 
 ## Changelog
 
-### 1.8.4
+### 1.9.0
 - Initial release with integration for WhatsApp, MercadoPago, WooCommerce Cart Abandonment Recovery, and EvolutionAPI.
 
 ## Support
